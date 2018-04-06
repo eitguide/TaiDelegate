@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "ec55ae5e9817a1ec9ff872d8006079a6"
+build_time: [1523020695, 305770000]
+inputs:
+  "/Users/nguyennghia/Desktop/TestQBDelegate/TestQBDelegate/ViewController.swift": [1523020691, 0]
+  "/Users/nguyennghia/Desktop/TestQBDelegate/TestQBDelegate/AppDelegate.swift": [1523020691, 0]
